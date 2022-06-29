@@ -152,8 +152,8 @@ const educationInfo = {
       duration: "2022 - 2022",
       desc: "Developed multiple projects, and learned multiple languages for front-end and back-end",
       descBullets: [
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+        "Complete intense 12 week bootcamp learning multiple front-end and back-end languages, and database",
+        "Build aesthetic full-stack applications using React libraries"
       ]
     },
     {
@@ -162,7 +162,7 @@ const educationInfo = {
       subHeader: "Bachelor of Science",
       duration: "2014 - 2018",
       desc: "Experienced in Biology, Microbiology, Chemistry, Food Science",
-      descBullets: ["Lorem ipsum dolor sit amet, consectetur adipiscing elit"]
+      descBullets: ["Experienced with product development workflow and UX design data analysis"]
     }
   ]
 };
