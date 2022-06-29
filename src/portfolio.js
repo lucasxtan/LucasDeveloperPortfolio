@@ -147,7 +147,7 @@ const educationInfo = {
   schools: [
     {
       schoolName: "Lighthouse Labs",
-      logo: require("./assets/images/harvardLogo.png"),
+      logo: require("./assets/images/lighthouselabs.jpeg"),
       subHeader: "Full-Stack Web Development Bootcamp",
       duration: "2022 - 2022",
       desc: "Developed multiple projects, and learned multiple languages for front-end and back-end",
@@ -158,7 +158,7 @@ const educationInfo = {
     },
     {
       schoolName: "University of Alberta",
-      logo: require("./assets/images/stanfordLogo.png"),
+      logo: require("./assets/images/ualbertaLogo.png"),
       subHeader: "Bachelor of Science",
       duration: "2014 - 2018",
       desc: "Experienced in Biology, Microbiology, Chemistry, Food Science",
