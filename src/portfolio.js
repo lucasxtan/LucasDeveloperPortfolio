@@ -380,7 +380,7 @@ const contactInfo = {
   title: emoji("Contact Me ☎️"),
   subtitle:
     "Discuss a project or just want to say hi? My Inbox is open for all.",
-  email_address: "saadpasta70@gmail.com"
+  email_address: "sheng.x.tan@gmail.com"
 };
 
 // Twitter Section
