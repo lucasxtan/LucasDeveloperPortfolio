@@ -65,15 +65,15 @@ https://fontawesome.com/icons?d=gallery */
 
   softwareSkills: [
     {
-      skillName: "html-5",
+      skillName: "HTML-5",
       fontAwesomeClassname: "fab fa-html5"
     },
     {
-      skillName: "css3",
+      skillName: "CSS3",
       fontAwesomeClassname: "fab fa-css3-alt"
     },
     {
-      skillName: "sass",
+      skillName: "SASS",
       fontAwesomeClassname: "fab fa-sass"
     },
     {
@@ -81,11 +81,23 @@ https://fontawesome.com/icons?d=gallery */
       fontAwesomeClassname: "fab fa-js"
     },
     {
-      skillName: "reactjs",
+      skillName: "Reactjs",
       fontAwesomeClassname: "fab fa-react"
     },
     {
-      skillName: "nodejs",
+      skillName: "Typescript",
+      fontAwesomeClassname: "fas fa-keyboard"
+    },
+    {
+      skillName: "jQuery",
+      fontAwesomeClassname: "fa-solid fa-code"
+    },
+    {
+      skillName: "Express.js",
+      fontAwesomeClassname: "fab fa-node-js"
+    },
+    {
+      skillName: "Nodejs",
       fontAwesomeClassname: "fab fa-node"
     },
     // {
@@ -93,31 +105,31 @@ https://fontawesome.com/icons?d=gallery */
     //   fontAwesomeClassname: "fab fa-swift"
     // },
     {
-      skillName: "npm",
+      skillName: "NPM",
       fontAwesomeClassname: "fab fa-npm"
     },
     {
-      skillName: "sql-database",
+      skillName: "SQL-database",
       fontAwesomeClassname: "fas fa-database"
     },
     {
-      skillName: "git",
+      skillName: "Git",
       fontAwesomeClassname: "fab fa-git-alt"
     },
     {
-      skillName: "github",
+      skillName: "Github",
       fontAwesomeClassname: "fab fa-github"
     },
     {
-      skillName: "ruby on rails",
+      skillName: "Ruby on Rails",
       fontAwesomeClassname: "fas fa-gem"
     },
     {
-      skillName: "bootstrap",
+      skillName: "Bootstrap 5",
       fontAwesomeClassname: "fab fa-bootstrap"
     },
     {
-      skillName: "figma",
+      skillName: "Figma",
       fontAwesomeClassname: "fab fa-figma"
     }
     // {
