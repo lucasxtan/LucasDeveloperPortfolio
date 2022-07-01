@@ -165,7 +165,7 @@ const educationInfo = {
       desc: "Developed multiple projects, and learned multiple languages for front-end and back-end",
       descBullets: [
         "Complete intense 12 week bootcamp learning multiple front-end and back-end languages, and database",
-        "Build aesthetic full-stack applications using React libraries"
+        "Build aesthetic full-stack applications using React"
       ]
     },
     {
