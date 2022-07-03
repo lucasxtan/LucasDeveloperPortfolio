@@ -262,7 +262,7 @@ const bigProjects = {
     {
       image: require("./assets/images/scheduler.png"),
       projectName: "Scheduler",
-      projectDesc: "The scheduler app is used to schedule interview appointments between student and interviewer for each day of the week from 12pm to 5pm.",
+      projectDesc: "The scheduler app is used to schedule interview appointments between student and interviewer for each day of the week. You can select, edit, and delete interview times.",
       footerLink: [
         {
           name: "Visit Website",
