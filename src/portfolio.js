@@ -250,7 +250,7 @@ const bigProjects = {
     {
       image: require("./assets/images/robotics-green.png"),
       projectName: "Mealbot",
-      projectDesc: "Mealbot is a meal planning and grocery list generating app that makes it easy to eat healthy and save money. With Mealbot, you can create custom meal plans and grocery lists, and text them to yourself or a friend. Mealbot also makes it easy to find recipes and grocery items, so you can get started on your healthy eating journey right away.",
+      projectDesc: "Mealbot is a meal planning and grocery list generating app that makes it easy to eat healthy and save money. With Mealbot, you can create custom meal plans and grocery lists, and text them to yourself or a friend. You can calculate ingredients based on serving size. Mealbot also makes it easy to find recipes and grocery items, so you can get started on your healthy eating journey right away.",
       footerLink: [
         {
           name: "Visit Website",
